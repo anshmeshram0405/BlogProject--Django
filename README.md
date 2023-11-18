@@ -1,10 +1,10 @@
 # BlogProject--Django
-1. Create a virual environment outside the main file i.e. blogproj
-	  virtualenv venv
-               [<file_name>]
+1. Create a virual environment outside the main file i.e. blogproj:- 
+virtualenv venv
+	   [<file_name>]
 
-3. Activate the virtual enviornment 
-	social_google/Scripts/activate
+3. Activate the virtual environment:-  
+social_google/Scripts/activate
 
 4. cd blogproj
 5. Install dependencies
